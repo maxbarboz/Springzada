@@ -1,5 +1,4 @@
 # Springzada
-Estudo da framework Spring Boot 
 
 ## Oque é o Spring?
 
