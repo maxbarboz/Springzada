@@ -1,5 +1,7 @@
 package com.example.algamoney.api.model;
 
+import java.io.Serializable;
+
 import javax.persistence.Embedded;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -12,8 +14,9 @@ import com.sun.istack.internal.NotNull;
 
 @Entity
 @Table(name = "pessoa")
-public class Pessoa {
 
+public class Pessoa{
+	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long codigo;
