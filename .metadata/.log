@@ -729,3 +729,39 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 09:33:45.655
 !MESSAGE executing callback sts4.classpath.MdwfuTHT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.904
+!MESSAGE Preparing classpath changed notification algamoney-api
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.904
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.907
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.909
+!MESSAGE buffering callback sts4.classpath.MdwfuTHT algamoney-api false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.909
+!MESSAGE executing callback sts4.classpath.MdwfuTHT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:56.974
+!MESSAGE executing callback sts4.classpath.MdwfuTHT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.734
+!MESSAGE Preparing classpath changed notification algamoney-api
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.734
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.738
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.739
+!MESSAGE buffering callback sts4.classpath.MdwfuTHT algamoney-api false 114
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.740
+!MESSAGE executing callback sts4.classpath.MdwfuTHT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 10:00:59.746
+!MESSAGE executing callback sts4.classpath.MdwfuTHT SUCCESS [done]
