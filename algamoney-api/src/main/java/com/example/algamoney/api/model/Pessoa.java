@@ -1,6 +1,6 @@
 package com.example.algamoney.api.model;
 
-import java.io.Serializable;
+import java.beans.Transient;
 
 import javax.persistence.Embedded;
 import javax.persistence.Entity;
@@ -10,6 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.Size;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.sun.istack.internal.NotNull;
 
 @Entity
@@ -61,6 +62,12 @@ public class Pessoa{
 
 	public void setAtivo(Boolean ativo) {
 		this.ativo = ativo;
+	}
+	
+	@JsonIgnore
+	@Transient
+	public boolean isInativo() {
+		return !this.ativo;
 	}
 	
 	

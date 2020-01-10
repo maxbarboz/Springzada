@@ -13,4 +13,8 @@
 <fullyQualifiedTypeName name="com.example.algamoney.api.repository.PessoaRepository"/>
 <fullyQualifiedTypeName name="com.example.algamoney.api.event.RecursoCriadoEvent"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang3.exception.ExceptionUtils"/>
+<fullyQualifiedTypeName name="com.sun.istack.NotNull"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="java.beans.Transient"/>
 </qualifiedTypeNameHistroy>
