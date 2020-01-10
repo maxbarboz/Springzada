@@ -70,7 +70,7 @@ public class LancamentoResource {
 		 return lancamento != null ? ResponseEntity.ok(lancamento) : ResponseEntity.notFound().build();
 	}
 	
-	@DeleteMapping("/{codigo}")
+	@DeleteMapping("{/codigo}")
 	@ResponseStatus(HttpStatus.NO_CONTENT)
 	public void deleteLancamento(@PathVariable Long codigo) {
 		lancamentoRepository.delete(lancamentoRepository.getOne(codigo));

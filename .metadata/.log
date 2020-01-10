@@ -1721,3 +1721,21 @@ java.util.concurrent.TimeoutException
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:31:22.503
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:33:04.626
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:33:23.885
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:35:09.461
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:36:03.986
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:36:09.504
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
