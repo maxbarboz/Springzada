@@ -48,16 +48,15 @@ public class LancamentoResource {
 
 		return ResponseEntity.status(HttpStatus.CREATED).body(lancamentoSalva);
 
-		/*
+		
 		// recuperação de recurso
 		URI uri = ServletUriComponentsBuilder.fromCurrentRequestUri().path("/{codigo}")
 				.buildAndExpand( lancamentoSalva.getCodigo()).toUri();
-		
 		response.setHeader("Location", uri.toASCIIString());
 		
 		// retornando o valor da inserção na tabela
 		return ResponseEntity.created( uri ).body( lancamentoSalva );
-		*/
+		
 	}
 
 	
