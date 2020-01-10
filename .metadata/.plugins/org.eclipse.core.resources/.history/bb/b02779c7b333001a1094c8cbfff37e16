@@ -1,0 +1,8 @@
+package com.example.algamoney.api.repository.filter;
+
+public class LancamentoFilter {
+
+	private Strign descricao;
+	private LocalDate dataVencimentoDe;
+	private LocalDate dataVencimentoAte;
+}
