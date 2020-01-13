@@ -21,6 +21,7 @@ public class Lancamento {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "codigo")
 	private Long codigo;
 
 	@NotNull
