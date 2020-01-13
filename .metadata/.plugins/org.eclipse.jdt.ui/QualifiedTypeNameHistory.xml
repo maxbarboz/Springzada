@@ -14,7 +14,6 @@
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 <fullyQualifiedTypeName name="org.apache.commons.lang3.exception.ExceptionUtils"/>
 <fullyQualifiedTypeName name="com.sun.istack.NotNull"/>
-<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
 <fullyQualifiedTypeName name="java.beans.Transient"/>
 <fullyQualifiedTypeName name="antlr.collections.List"/>
 <fullyQualifiedTypeName name="java.util.List"/>
@@ -27,4 +26,8 @@
 <fullyQualifiedTypeName name="javax.persistence.metamodel.StaticMetamodel"/>
 <fullyQualifiedTypeName name="javax.annotation.Generated"/>
 <fullyQualifiedTypeName name="com.example.algamoney.api.model.Lancamentoz"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.annotation.RequestScope"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable"/>
 </qualifiedTypeNameHistroy>

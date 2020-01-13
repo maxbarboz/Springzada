@@ -1739,3 +1739,154 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:36:09.504
 !MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:39:51.397
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:41:00.571
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:42:15.239
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 15:45:39.354
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:03:18.370
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:06:26.290
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:09:50.637
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:15:56.500
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:18:07.197
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 16:30:55.101
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SWcxxlvx
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 16:30:55.102
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SWcxxlvx
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 16:30:55.102
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-10 16:30:55.103
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SWcxxlvx => OK
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-10 16:30:55.284
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.ui 2 2 2020-01-10 16:30:55.494
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-01-13 09:27:11.081 -----------------------------------------------
+eclipse.buildId=4.5.0.201912171052-RELEASE
+java.version=1.8.0_232
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2020-01-13 09:28:24.949
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-01-13 09:28:24.950
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@111cbcda,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@437c1a87,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:29:48.338
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:29:48.339
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1d2ce035[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:29:48.424
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:29:49.109
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:18.765
+!MESSAGE Boot LS startup time from start to initialized: 30086ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.104
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NIgLGsXzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.112
+!MESSAGE subscribing to classpath changes: sts4.classpath.NIgLGsXz isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.114
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.117
+!MESSAGE subsribers = {sts4.classpath.NIgLGsXz=Send Classpath Notifications(76)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.117
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.118
+!MESSAGE project algamoney-api ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.118
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.119
+!MESSAGE Preparing classpath changed notification algamoney-api
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.119
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NIgLGsXz => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.127
+!MESSAGE classpath=119 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.128
+!MESSAGE buffering callback sts4.classpath.NIgLGsXz algamoney-api false 119
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.128
+!MESSAGE executing callback sts4.classpath.NIgLGsXz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-13 09:30:19.303
+!MESSAGE executing callback sts4.classpath.NIgLGsXz SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:36:11.188
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:37:10.409
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:37:45.521
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:38:43.219
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:40:03.440
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:40:18.385
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2020-01-13 09:44:59.667
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.4.10.Final
